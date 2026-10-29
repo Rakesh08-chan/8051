@@ -1,0 +1,3 @@
+ORG 0000H
+CLR P1.3
+END
